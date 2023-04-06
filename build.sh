@@ -1,5 +1,7 @@
 #!/bin/sh
 
+rm -rf bin src font-patcher FontPatcher.zip patched
+
 curl -LO https://github.com/ryanoasis/nerd-fonts/releases/latest/download/FontPatcher.zip
 unzip FontPatcher.zip
 
