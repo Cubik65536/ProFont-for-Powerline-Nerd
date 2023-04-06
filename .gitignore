@@ -1,0 +1,8 @@
+# macOS File System
+.DS_Store
+
+# FontPatcher
+FontPatcher.zip
+bin
+font-patcher
+src
